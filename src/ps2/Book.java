@@ -7,7 +7,7 @@ package ps2;
 
 import java.util.LinkedHashSet;
 
-public class Book implements Comparable<Book>
+public abstract class Book implements Comparable<Book>
 {
     //Static Elements
     private static int bookCounter;
@@ -42,6 +42,8 @@ public class Book implements Comparable<Book>
         this("Designing with Objects", 512, "burgundy");
     }
 
+    public abstract int randomRating();
+
     //Getters and Setters 
     public int getRating(){
         return this.rating;
@@ -50,7 +52,7 @@ public class Book implements Comparable<Book>
     public void setRating(int rating){
         this.rating = rating; 
     }
-    
+
     public String getTitle(){
         return this.title;
     }
@@ -81,7 +83,7 @@ public class Book implements Comparable<Book>
 
     @Override
     public String toString(){
-        return ("title\t" + this.title + "\ncolor\t" + this.color + "\npages\t" + this.numPages); 
+        return ("title\t" + this.title + "\ncolor\t" + this.color + "\npages\t" + this.numPages + "\nrating\t" + this.rating); 
     }
 
     @Override
@@ -108,3 +110,4 @@ public class Book implements Comparable<Book>
             return 0;
     }
 }
+
