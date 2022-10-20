@@ -1,4 +1,4 @@
-package ps2;
+package polymorphism;
 
 import java.util.Random;
 

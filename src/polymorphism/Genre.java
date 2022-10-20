@@ -1,4 +1,4 @@
-package ps2;
+package polymorphism;
 
 public enum Genre{MYSTERY, FANTASY, HUMOR};
 

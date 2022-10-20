@@ -3,7 +3,7 @@
  * Brendan Sherman 
  */
 
-package ps1;
+package overriding_methods;
 
 import java.util.LinkedHashSet;
 

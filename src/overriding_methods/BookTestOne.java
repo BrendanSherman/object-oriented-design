@@ -2,7 +2,7 @@
  * program to test methods in Book
  */
 
-package ps1;
+package overriding_methods;
 
 import java.util.List;
 import java.util.ArrayList;

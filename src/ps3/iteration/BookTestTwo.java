@@ -1,4 +1,4 @@
-package ps2;
+package ps3.iteration;
 /*
  * program to test methods in Fiction and NonFiction
  */
