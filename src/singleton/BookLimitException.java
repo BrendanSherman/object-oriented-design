@@ -2,7 +2,7 @@
  * Brendan Sherman
  */
 
-package ps3.singleton;
+package singleton;
 
 public class BookLimitException extends Exception
 {

@@ -1,4 +1,4 @@
-package ps3.iteration;
+package iterator;
 /*
  * program to test methods in Fiction and NonFiction
  */

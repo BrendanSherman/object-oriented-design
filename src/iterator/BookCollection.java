@@ -2,11 +2,10 @@
  * Brendan Sherman 
  */
 
-package ps3.iteration;
+package iterator;
 
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
-
 
 public class BookCollection
 {
@@ -96,6 +95,6 @@ public class BookCollection
 		public void remove()
 		{
 			throw new UnsupportedOperationException("remove not implemented");
-  	}
+  		}
 	}
 }

@@ -1,4 +1,4 @@
-package ps3.iteration;
+package iterator;
 
 public enum Genre{MYSTERY, FANTASY, HUMOR};
 

@@ -1,4 +1,4 @@
-package ps3.iteration;
+package iterator;
 
 import java.util.Random;
 

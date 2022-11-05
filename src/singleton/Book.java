@@ -2,7 +2,7 @@
  * Brendan Sherman
  */
 
-package ps3.singleton;
+package singleton;
 
 import java.util.List;
 import java.util.LinkedList;

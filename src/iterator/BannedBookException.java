@@ -2,7 +2,7 @@
  * Brendan Sherman 
  */
 
-package ps3.iteration;
+package iterator;
 
 public class BannedBookException extends Exception
 {

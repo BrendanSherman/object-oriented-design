@@ -2,7 +2,7 @@
  * program for testing BookCollection
  */
 
-package ps3.iteration;
+package iterator;
 
 public class BookCollectionTest
 {

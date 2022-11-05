@@ -1,4 +1,4 @@
-package ps3.factory;
+package factory;
 /*
  * Brendan Sherman 
  */

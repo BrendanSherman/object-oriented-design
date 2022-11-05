@@ -1,4 +1,4 @@
-package ps3.singleton;
+package singleton;
 /*
  * test program for Book
  */

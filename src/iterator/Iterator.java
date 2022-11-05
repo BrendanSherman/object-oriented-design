@@ -1,4 +1,4 @@
-package ps3.iteration;
+package iterator;
 
 public interface Iterator<T>
 {

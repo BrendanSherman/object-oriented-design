@@ -4,7 +4,7 @@
  * Brendan Sherman 
  */
 
-package ps3.iteration;
+package iterator;
 
 import java.util.*;
 

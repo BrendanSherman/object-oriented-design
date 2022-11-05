@@ -2,5 +2,5 @@
  * Brendan Sherman 
  */
 
-package ps3.singleton;
+package singleton;
 public enum Genre{MYSTERY, FANTASY, HUMOR}
