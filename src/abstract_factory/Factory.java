@@ -1,7 +1,7 @@
 /*
  * Brendan Sherman 
  */
-package abstract_factory;
+package ps4.abstract_factory;
 public abstract class Factory
 {
     protected FactoryStore store;

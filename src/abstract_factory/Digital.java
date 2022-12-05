@@ -1,7 +1,7 @@
 /*
  * Brendan Sherman 
  */
-package abstract_factory;
+package ps4.abstract_factory;
 public class Digital extends Book
 {
     public Digital(String t, String c){

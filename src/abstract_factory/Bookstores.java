@@ -1,7 +1,7 @@
 /*
  * test program for abstract factory pattern
  */
-package abstract_factory;
+package ps4.abstract_factory;
 
 import java.util.*;
 

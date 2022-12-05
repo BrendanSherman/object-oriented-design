@@ -1,4 +1,4 @@
-package builder;
+package ps4.builder;
 /*
  * test program for Builder design pattern
  */

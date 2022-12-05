@@ -2,7 +2,7 @@
  *   Brendan Sherman 
  */
 
-package prototype;
+package ps4.prototype;
 
 public class Book implements Cloneable 
 {

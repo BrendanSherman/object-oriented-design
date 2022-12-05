@@ -2,7 +2,7 @@
  * test program for Prototype design pattern
  */
 
-package prototype;
+package ps4.prototype;
 
 public class SouthSpringsLibrary
 {
